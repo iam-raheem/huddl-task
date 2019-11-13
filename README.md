@@ -16,3 +16,5 @@ online clothing retail store
 -> http://localhost:3000/users/shaikraheem141@gmail.com/Raheem/winter2019
 
 -> Params: email, name, sale identifier
+
+-> Hit this from postman / rest-client
