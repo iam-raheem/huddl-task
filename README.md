@@ -9,6 +9,8 @@ online clothing retail store
 
 -> npm install
 
+-> create .env file in the root folder of the application. add the sendgrid api key which was sent in the email.
+
 -> npm start
 
 # Sample API GET request
